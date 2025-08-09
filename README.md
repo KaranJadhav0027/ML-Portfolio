@@ -8,9 +8,13 @@ This project implements a K‑Nearest Neighbors-based diabetes prediction pipeli
 
 ##  Repository Structure
 ├── artifacts_sample/
+
 │ └── KNN_pipeline.joblib # Trained pipeline artifact
+
 ├── diabetes.csv # Dataset:
+
 └── diabetes_prediction.py # Main script with modular functions
+
 └── README.md # This documentation
 
 ##  Function Breakdown
