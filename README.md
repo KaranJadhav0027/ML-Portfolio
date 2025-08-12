@@ -3,19 +3,23 @@
 **Author**: Karan Jadhav  
 **Last Updated**: 09‑08‑2025
 
+---
+
 ## Overview
 This project implements a K‑Nearest Neighbors-based diabetes prediction pipeline using standardized preprocessing and hyperparameter tuning. It includes an industrial-grade structure, a saved model artifact, and comprehensive evaluation metrics and visualization.
 
+---
+
 ##  Repository Structure
+<pre>
 ├── artifacts_sample/
-
 │ └── KNN_pipeline.joblib # Trained pipeline artifact
-
 ├── diabetes.csv # Dataset:
-
 └── diabetes_prediction.py # Main script with modular functions
-
 └── README.md # This documentation
+</pre>
+
+---
 
 ##  Function Breakdown
 
@@ -36,6 +40,7 @@ Below is a summary of each function defined in `DiabetesPredictionKNN.py`, along
 | **`DiabetesCase(path)`** | Encapsulates the full pipeline: load, clean, split, K selection, pipeline training/saving, model evaluation, and visualization. |
 | **`main()`** | Entry point executing `DiabetesCase()` using `diabetes.csv`. |
 
+--- 
 
 ##  Execution Flow 
 
@@ -68,3 +73,5 @@ Below is a summary of each function defined in `DiabetesPredictionKNN.py`, along
 
 10. **Reusable Artifact**  
     The saved pipeline can be reloaded for inference in future environments via `joblib.load()`.
+
+---
