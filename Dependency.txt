@@ -1,0 +1,9 @@
+ 
+ Python 3.8+ and latest versions
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
