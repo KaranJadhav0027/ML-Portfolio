@@ -48,4 +48,4 @@ The pipeline covers **data preprocessing, feature scaling, model training, evalu
 ## 👨‍💻 Author
 **Karan Jadhav**  
   - Developer | Data Structures Enthusiast | System Design Learner
-  [📧] (karanjadhav0027@gmail.com)
+  - [📧] (karanjadhav0027@gmail.com)
