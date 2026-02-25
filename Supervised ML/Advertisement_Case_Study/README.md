@@ -101,5 +101,5 @@ Advertisement_Case_Study/
 - joblib >= 1.3.2
 
 ## Author
-**Swamit Amit jadhav**  
+**Karan Sanjay Jadhav**  
 *Date: 18/09/2025*
