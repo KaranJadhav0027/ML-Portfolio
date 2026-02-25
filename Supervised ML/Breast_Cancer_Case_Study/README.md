@@ -109,6 +109,6 @@ This model can be used as a preliminary screening tool in medical diagnosis:
 - **Early Detection**: Helps in identifying potential cancer cases early
 
 ## Author
-**Swamit Amit jadhav**  
+**Karan Sanjay Jadhav**  
 *Date: 18/09/2025*
 
