@@ -143,6 +143,6 @@ Based on model insights, effective strategies include:
 - joblib >= 1.3.2
 
 ## Author
-**Swamit Amit jadhav**  
+**Karan Sanjay Jadhav**  
 *Date: 18/09/2025*
 
